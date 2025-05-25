@@ -68,3 +68,8 @@ Recall: 0.97
 |Accuracy| | | 0.96|1000000| 
 |Macro avg|0.51|0.97|0.51|1000000|
 |Weighted Avg|1.00|0.96|0.98|1000000|
+
+
+# Steamlit App Run Pdf :
+
+![image alt](https://github.com/sonalkothmire/UPI_FraudDetection/blob/main/StreamlitApp_run.pdf)
